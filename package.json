@@ -1,0 +1,16 @@
+{
+  "name": "eureka",
+  "version": "0.0.0",
+  "description": "Tiny framework for running serveral node services in one node process",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jue89/eureka.git"
+  },
+  "author": "Jue <me@jue.yt>",
+  "license": "MIT",
+  "dependencies": {
+    "fire-up": "^0.4.4"
+  },
+  "devDependencies": {},
+}
